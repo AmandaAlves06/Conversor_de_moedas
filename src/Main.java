@@ -26,6 +26,7 @@ public class Main {
             4) Real brasileiro (BRL) =>> Dólar (USD)
             5) Dólar (USD) =>> Peso colombiano (COP)
             6) Peso colombiano (COP) =>> Dólar (USD)
+            7) Sair
         """);
             System.out.println("Digite a opção desejada:");
             int opcao = scanner.nextInt(); // Lê a opção digitada pelo usuário / Reads user option
