@@ -51,7 +51,11 @@ The user selects two currencies (from/to), enters the amount, and receives a rea
 
 ---
 
-## 💡 Exemplo de uso | Example of use
+##💻 Veja o funcionamento do projeto neste vídeo demonstrativo:  
+
+Watch the project in action in this demo video: https://drive.google.com/file/d/1E7Tol3_pNnlOVFrJvoZkH9EBQMcBUdyp/view?usp=drive_link
+
+## 💡 Exemplo de uso | Example of use 
 
 ```bash
 *******************************************
@@ -74,3 +78,4 @@ Digite o valor que deseja converter:
 > 100
 
 ➡ 100.00 USD = 549.04 BRL
+
